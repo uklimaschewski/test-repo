@@ -2,6 +2,6 @@
 srcgen/
 .settings
 .project
-!.empty-*
 bin
-**/bin/.empty-*
+.classpath
+.metadata
