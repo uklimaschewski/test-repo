@@ -1,0 +1,12 @@
+{
+  "modelProjectType" : "RULES",
+  "label" : "rp1",
+  "dependencies" : [ {
+    "type" : "library",
+    "group" : "com.actico.rules.core.runtime",
+    "name" : "rules-runtime-api",
+    "version" : "9.1.6",
+    "scope" : "DEFAULT"
+  } ],
+  "modelProjectMimeType" : "application/vnd.modelproject.rules"
+}

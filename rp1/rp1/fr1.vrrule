@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<de.visualrules.base.rule:FlowRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:de.visualrules.base.rule="http:///de/visualrules/base/rule.ecore" xmi:id="_CMXy4ADUEeyLbNpy7rcArw" name="fr1" metamodelVersion="36" id="0">
+  <flowType href="visualrules:/base/#FTStandard"/>
+</de.visualrules.base.rule:FlowRule>

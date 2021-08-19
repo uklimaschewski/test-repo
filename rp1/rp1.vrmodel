@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<de.visualrules.base:RuleModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:de.visualrules.base="http:///de/visualrules/base.ecore" xmlns:de.visualrules.java="http:///de/visualrules/java.ecore" xmi:id="_BD2EkADUEeyLbNpy7rcArw" name="rp1" metamodelVersion="36">
+  <imports xsi:type="de.visualrules.base:RuleModel" href="visualrules:/base/#/"/>
+  <imports xsi:type="de.visualrules.base:RuleModel" href="visualrules:/functions/arithmetic#/"/>
+  <imports xsi:type="de.visualrules.base:RuleModel" href="visualrules:/functions/collection#/"/>
+  <imports xsi:type="de.visualrules.base:RuleModel" href="visualrules:/functions/map#/"/>
+  <imports xsi:type="de.visualrules.base:RuleModel" href="visualrules:/functions/dateandtime#/"/>
+  <imports xsi:type="de.visualrules.base:RuleModel" href="visualrules:/functions/general#/"/>
+  <imports xsi:type="de.visualrules.base:RuleModel" href="visualrules:/functions/string#/"/>
+  <imports xsi:type="de.visualrules.base:RuleModel" href="visualrules:/functions/conversion#/"/>
+  <imports xsi:type="de.visualrules.base:RuleModel" href="visualrules:/standardActions#/"/>
+  <imports xsi:type="de.visualrules.base:RuleModel" href="visualrules:/standardServices#/"/>
+  <imports xsi:type="de.visualrules.base:RuleModel" href="visualrules:/standardDataSources#/"/>
+  <rulePackageEnvironmentConfigurations xsi:type="de.visualrules.java:JavaRulePackageEnvironmentConfiguration" xmi:id="_BD2EkQDUEeyLbNpy7rcArw" useReferences="true">
+    <environment href="visualrules:/java/#Java"/>
+  </rulePackageEnvironmentConfigurations>
+  <languages>en</languages>
+  <configuredTargetEnvironments href="visualrules:/webservice/#WebService"/>
+  <configuredTargetEnvironments href="visualrules:/xmlsupport/#XMLSupport"/>
+  <configuredTargetEnvironments href="visualrules:/java/#Java"/>
+</de.visualrules.base:RuleModel>
