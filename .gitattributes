@@ -1,0 +1,14 @@
+*.vrtestresult binary
+*.vrgateway binary
+*.vrdiagram binary
+*.vrresult binary
+*.vrtable binary
+*.vrtestsuite binary
+*.vrusage binary
+*.vrrule binary
+*.vrstateflow binary
+*.vrmodel binary
+*.vrtest binary
+*.context binary
+*.vrruletemplate binary
+*.vrpackage binary

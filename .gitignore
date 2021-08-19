@@ -1,0 +1,7 @@
+/releases
+srcgen/
+.settings
+.project
+!.empty-*
+bin
+**/bin/.empty-*
